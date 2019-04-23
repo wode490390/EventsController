@@ -1,0 +1,5 @@
+#Example:
+#cancel:
+#  - LightningStrikeEvent
+#  - ThunderChangeEvent
+cancel:
